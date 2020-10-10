@@ -33,6 +33,123 @@ ul {
   color: #808080
 }
 
+.picture {
+  text-align: center;
+}
+
 .main-picture {
-  
+  width: 500px;
+  height: 300px;
+}
+
+h2 {
+  color: #808080;
+  margin-top: 50px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.character p {
+  text-align: center;
+}
+
+.career {
+  text-align: center;
+  /* width: 720px; */
+  float: left;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.career h4 {
+  text-align: center;
+  color: #808080;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* .teams {
+  width: 200px;
+  height:200px;
+  text-align: center;
+  float: left;
+  padding: 30px 30px 70px 30px;
+} */
+
+.career p {
+  text-align: center;
+  float: left;
+  margin-top: 10px;
+}
+
+.team-upper {
+  width: 720px;
+  margin: 0px auto;
+  border: 2px dotted gray;
+}
+
+.team-bottom {
+  width: 720px;
+  margin: 0 auto;
+  border: 2px dotted gray;
+}
+
+.team1-pic {
+  width: 200px;
+  height: 200px;
+}
+
+.team2-pic, .team5-pic {
+  width: 180px;
+  height: 180px;
+}
+
+.team5-pic {
+  margin-left: 30px;
+}
+
+.team3-pic {
+  width: 180px;
+  height: 170px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+
+}
+
+.team4-pic {
+  width: 160px;
+  height: 200px;
+  margin-left: 20px;
+}
+
+.team6-pic {
+  width: 180px;
+  height: 180px;
+}
+
+table {
+  width: 90%;
+  margin: 20px auto;
+}
+
+table th{
+  text-align: center;
+  color: white;
+  background: linear-gradient(#829ebc,#225588);
+  border-left: 1px solid #3c6690;
+  border-top: 1px solid #3c6690;
+  border-bottom: 1px solid #3c6690;
+  box-shadow: 0px 1px 1px rgba(255,255,255,0.3) inset;
+  width: 25%;
+  padding: 10px 0;
+}
+
+table td {
+  text-align: center;
+  border-left: 1px solid #a8b7c5;
+  border-bottom: 1px solid #a8b7c5;
+  border-top: none;
+  box-shadow: 0px -3px 5px 1px#eee inset;
+  width: 25%;
+  padding: 10px 0;
 }
